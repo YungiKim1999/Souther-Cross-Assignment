@@ -9,7 +9,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
