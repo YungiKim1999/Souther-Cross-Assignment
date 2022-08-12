@@ -52,8 +52,6 @@ $ npm start
 ```
 Compiled successfully!
 
-You can now view kimchi-stonks-app in the browser.
-
   http://localhost:3000
 
 Note that the development build is not optimized. 
